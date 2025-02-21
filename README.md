@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Junior Sesario Huanca Acebo 👋
 
-<!--
-**JuniorAcebo/junioracebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de **Ingeniería de Sistemas** en **UTEPSA** con un gran interés en el desarrollo de software, bases de datos, y metodologías ágiles como **Extreme Programming (XP)**.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí:
+- 🏫 Estudiante en **UTEPSA** (Universidad Tecnológica Privada de Santa Cruz)
+- 📚 Apasionado por aprender nuevas tecnologías y herramientas de desarrollo.
+- 🎮 Disfruto de los videojuegos, especialmente  **FIFA - PES**.
+- ⚽ Soy fanático del fútbol, soy hincha del **BARCELONA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que utilizo:
+- **Lenguajes de programación:** Python, Java, SQL, HTML, CSS, PHP
+- **Herramientas:** Git, GitHub, MySQL, Laravel, PowerBi
+- **Metodologías:** XP (Extreme Programming), Agile
+
+## 🚀 Proyectos:
+1. **Sistema de Información Transaccional (Multicenter)**  
+   Un sistema para una tienda en línea que vende productos, usando la metodología **XP**.
+   
+2. **Sistema Web para una Clinica Dental (Cristo Rey)**
+   cdcristorey.com  
+
+
+## 📫 Cómo contactarme:
+- **Correo electrónico:** [huanca.j406@correo.com](mailto:huanca.j406@correo.com)
+- **LinkedIn:** [juniorhuanca](https://www.linkedin.com/in/juniorhuanca)
+- **GitHub:** [juniorhuanca](https://github.com/juniorhuanca)
+
+## 📊 Estadísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorhuanca&show_icons=true&theme=radical)
+
+## Contacto: +591 75318380
