@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas • Backend con Django • Desarrollo Web
 - 🔭 Actualmente desarrollando sistemas inteligentes con IA (detección de EPP)  
 - 💼 Disponible para pasantías y roles junior (Django • Desarrollo Web)  
 - 🧰 Stack: Python, Django, SQL (MySQL/PostgreSQL), JavaScript, Tailwind  
-- 🌐 Portafolio: TU_LINK_PORTAFOLIO  
+- 🌐 Portafolio: https://juviordev.pythonanywhere.com/
 - 📄 Ver mi CV: TU_LINK_CV  
 - 📫 Contacto: huanca.j406@gmail.com  
 
