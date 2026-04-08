@@ -1,32 +1,40 @@
-# Hola, soy Junior Sesario Huanca Acebo 👋
+# Hi 👋, I'm Junior Huanca  
 
-Soy un estudiante de **Ingeniería de Sistemas** en **UTEPSA** con un gran interés en el desarrollo de software, bases de datos, y metodologías ágiles como **Extreme Programming (XP)**.
+Systems Engineering student • Django backend • Web Developer  
 
-## 🧑‍💻 Sobre mí:
-- 🏫 Estudiante en **UTEPSA** (Universidad Tecnológica Privada de Santa Cruz)
-- 📚 Apasionado por aprender nuevas tecnologías y herramientas de desarrollo.
-- 🎮 Disfruto de los videojuegos, especialmente  **FIFA - PES**.
-- ⚽ Soy fanático del fútbol, soy hincha del **BARCELONA**.
+---
 
-## 🔧 Tecnologías que utilizo:
-- **Lenguajes de programación:** Python, Java, SQL, HTML, CSS, PHP
-- **Herramientas:** Git, GitHub, MySQL, Laravel, PowerBi
-- **Metodologías:** XP (Extreme Programming), Agile
+## 🔭 Currently working on
+- Intelligent system for EPP detection using AI  
 
-## 🚀 Proyectos:
-1. **Sistema de Información Transaccional (Multicenter)**  
-   Un sistema para una tienda en línea que vende productos, usando la metodología **XP**.
-   
-2. **Sistema Web para una Clinica Dental (Cristo Rey)**
-   cdcristorey.com  
+## 💼 Open to
+- Internships  
+- Junior Backend Developer roles  
 
+## 🧰 Tech Stack
+- Python  
+- Django  
+- JavaScript  
+- HTML & CSS  
+- Tailwind  
+- MySQL / PostgreSQL  
+- Git & GitHub  
 
-## 📫 Cómo contactarme:
-- **Correo electrónico:** [huanca.j406@correo.com](mailto:huanca.j406@correo.com)
-- **LinkedIn:** [juniorhuanca](https://www.linkedin.com/in/juniorhuanca)
-- **GitHub:** [juniorhuanca](https://github.com/juniorhuanca)
+## 🌐 Portfolio
+https://TU-PORTAFOLIO.com  
 
-## 📊 Estadísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorhuanca&show_icons=true&theme=radical)
+## 📄 CV
+https://TU-PORTAFOLIO.com/cv  
 
-## Contacto: +591 75318380
+## 📫 Contact
+huanca.j406@gmail.com  
+
+---
+
+## 🤝 Connect with me
+- LinkedIn: TU LINK  
+
+---
+
+## 🚀 Core Tools
+Python • Django • JavaScript • SQL • Git • Tailwind
