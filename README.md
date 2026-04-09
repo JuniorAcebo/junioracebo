@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 - 🧰 Stack: Python, Django, PHP, Laravel, MySQL, PostgreSQL, JavaScript, HTML, CSS
 - 📊 Experiencia en análisis de datos con Pandas, NumPy, Matplotlib y Jupyter
 - 🔁 Automatización de procesos con N8N
-- 🌐 Portafolio: https://juviordev.pythonanywhere.com/
+- 🌐 Portafolio: <a href="https://juviordev.pythonanywhere.com/" target="_blank">https://juviordev.pythonanywhere.com/</a>
 - 📄 Ver mi CV: https://juviordev.pythonanywhere.com/static/core/cv/Junior.pdf
 - 📫 Contacto: huanca.j406@gmail.com
 
