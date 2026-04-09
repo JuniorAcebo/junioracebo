@@ -18,13 +18,13 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 
 <p>
   <a href="https://github.com/JuniorAcebo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.link/n3z8bz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:huanca.j406@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
