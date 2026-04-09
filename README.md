@@ -25,5 +25,7 @@ WhatsApp - https://wa.link/n3z8bz
 ## Herramientas principales
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,mysql,postgres,js,html,css,git" />
+<br>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 ```
