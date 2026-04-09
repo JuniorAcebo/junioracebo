@@ -17,7 +17,7 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 
 ## Conecta conmigo
 
-LinkedIn - TU_LINK_LINKEDIN  
+LinkedIn - PERDI_LA_CUENTA
 GitHub - [JuniorAcebo](https://github.com/JuniorAcebo)  
 WhatsApp - https://wa.link/n3z8bz
 
