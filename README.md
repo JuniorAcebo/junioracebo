@@ -14,15 +14,6 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 
 ---
 
-## Proyectos destacados
-
-- 🔥 **Análisis de Datos** — Focos de calor en Santa Cruz 2024 y sistema de pedidos internacionales · [GitHub](https://github.com/JuniorAcebo/Analisis-de-Datos)
-- 🛡️ **VisiónSafe** — Detección de violencia en tiempo real con IA y visión por computadora · [GitHub](https://github.com/JuniorAcebo/VisionSafe)
-- 📰 **Noti Ya!!!** — App Android de noticias sudamericanas con API propia · [GitHub](https://github.com/JuniorAcebo/noti-ya)
-- 🔧 **Hierro Par** — Sistema ERP para ferretería con módulos de ventas, inventario y KPIs · [GitHub](https://github.com/JuniorAcebo/HierrroPar-Proyecto)
-
----
-
 ## Conecta conmigo
 
 LinkedIn - TU_LINK_LINKEDIN  
