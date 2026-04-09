@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Junior Huanca</h1>
+<h1 align="center">Hola, soy Junior Huanca</h1>
 <p align="center">
 Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 </p>
