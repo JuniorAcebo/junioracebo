@@ -11,15 +11,22 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 - 🔁 Automatización de procesos con N8N
 - 🌐 Portafolio: https://juviordev.pythonanywhere.com/
 - 📄 Ver mi CV: https://juviordev.pythonanywhere.com/static/core/cv/Junior.pdf
-- 📫 Contacto: huanca.j406@gmail.com
   
 ---
 
 ## Conecta conmigo
 
-LinkedIn - PERDI_LA_CUENTA
-GitHub - [JuniorAcebo](https://github.com/JuniorAcebo)  
-WhatsApp - https://wa.link/n3z8bz
+<p>
+  <a href="https://github.com/JuniorAcebo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  </a>
+  <a href="https://wa.link/n3z8bz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="mailto:huanca.j406@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
