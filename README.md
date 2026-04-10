@@ -10,7 +10,7 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 - 📊 Experiencia en análisis de datos con Pandas, NumPy, Matplotlib y Jupyter
 - 🔁 Automatización de procesos con N8N
 - 🌐 Portafolio: https://juviordev.pythonanywhere.com/
-- 📄 Ver mi CV: https://juviordev.pythonanywhere.com/static/core/cv/Junior.pdf
+- 📄 Ver mi CV: https://juviordev.pythonanywhere.com/static/core/cv/JuniorCV.pdf
   
 ---
 
