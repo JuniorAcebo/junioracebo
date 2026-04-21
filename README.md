@@ -7,8 +7,8 @@ Estudiante de Ingeniería en Sistemas • Desarrollo Web • Análisis de Datos
 
 - 💼 Apasionado por el desarrollo web, la automatización y el análisis de datos
 - 🧰 Stack: Python, Django, PHP, Laravel, MySQL, PostgreSQL, JavaScript, HTML, CSS
-- 📊 Experiencia en análisis de datos con Pandas, NumPy, Matplotlib y Jupyter
-- 🔁 Automatización de procesos con N8N
+- 📊 Experiencia en análisis de datos con Power BI, Pandas, NumPy, Matplotlib y Jupyter
+- 🔁 Automatización de procesos con N8N, Make
 - 🌐 Portafolio: https://juviordev.pythonanywhere.com/
 - 📄 Ver mi CV: https://juviordev.pythonanywhere.com/static/core/cv/JuniorCV.pdf
   
